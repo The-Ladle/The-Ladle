@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Ladle&show_icons=true&theme=dark&hide_border=true&locale=en" alt="The-Ladle" /></p>
 
-<p>Profile template stolen from <a href="https://github.com/dvd-22">dvd-22</a> and <a href="https://github.com/ostoaleonardo">ostoaleonardo</a></p>
+<p>Profile template stolen from <a href="https://github.com/dvd-22">dvd-22</a></p>
