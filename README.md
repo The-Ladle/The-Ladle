@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm The Ladle!</h1>
-<h3 align="center"> I won't let you know much but I have much ambition and much sucky code.</h3>
+<h3 align="center"> I won't let you know much but I have a lot of ambition and not great code.</h3>
 
 - I try to contribute when I can
 - Likes hardware-based things as well as software
